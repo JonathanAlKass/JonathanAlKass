@@ -3,7 +3,7 @@
 </div>
 <div id="badges" align="center">
   <a href="https://discord.com/users/588664090684031007">
-    <img src="https://cv3.xyz/images/github/discordlogo" alt="Discord Badge"/>
+    <img src="https://cv3.xyz/images/github/discordlogo.svg" alt="Discord Badge"/>
     
   </a>
   <a href="https://www.youtube.com/"
