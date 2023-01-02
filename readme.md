@@ -63,6 +63,7 @@
           <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
+          <img src="https://www.malighting.com/typo3conf/ext/cs_templates/Resources/Public/Malighting/Images/logo.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
         </td>
       </tr>
   </table>
