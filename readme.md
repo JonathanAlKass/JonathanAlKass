@@ -41,8 +41,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
         </td>
         <td>
-             <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="Jetbrains" alt="Jetbrains" width="40" height="40"/>&nbsp;
-             <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Jetbrains" alt="Jetbrains" width="40" height="40"/>&nbsp;
+         <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="Jetbrains" alt="Jetbrains" width="40" height="40"/>&nbsp;
+         <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" title="Jetbrains" alt="Jetbrains" width="40" height="40"/>&nbsp;
+         <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Jetbrains" alt="Jetbrains" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
         </td>
         <td>
@@ -51,6 +52,12 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
         </td>
         <td>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
+          <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
+          <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
+          <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
+          <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
+          <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
         </td>
       </tr>
