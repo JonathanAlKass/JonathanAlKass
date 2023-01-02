@@ -44,6 +44,9 @@
         <td>
          <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="Jetbrains" alt="Jetbrains" width="40" height="40"/>&nbsp;
          <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" title="Jetbrains" alt="Jetbrains" width="40" height="40"/>&nbsp;
+         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" title="Jetbrains" alt="Jetbrains" width="40" height="40"/>&nbsp;
+         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/PhpStorm_Icon.svg" title="Jetbrains" alt="Jetbrains" width="40" height="40"/>&nbsp;
+          <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/DataGrip.svg" title="Jetbrains" alt="Jetbrains" width="40" height="40"/>&nbsp;
          <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Jetbrains" alt="Jetbrains" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
         </td>
