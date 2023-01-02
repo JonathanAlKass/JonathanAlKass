@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://cv3.xyz/images/github/banner2.png" width="80%"/>
+  <img src="https://cv3.xyz/images/github/banner3.png" width="80%"/>
 </div>
 <div id="badges" align="center">
   <a href="https://discord.com/users/588664090684031007">
