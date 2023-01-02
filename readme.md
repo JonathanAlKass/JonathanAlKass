@@ -47,6 +47,7 @@
         <td>
         <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
         </td>
       </tr>
   </table>
