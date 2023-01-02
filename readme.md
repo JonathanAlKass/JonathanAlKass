@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://cv3.xyz/images/github/banner.png" width="125"/>
+  <img src="https://cv3.xyz/images/github/banner.png" width="80%"/>
 </div>
 <div id="badges" align="center">
   <a href="https://discord.com/users/588664090684031007">
@@ -48,7 +48,7 @@
 
 ---
 
-### :fire: Best stats on GitHub :3 :
+### :fire: Best stats on GitHub :
   <p align="center">
       <a href="https://github.com/JonathanAlKass"><img alt="My Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=JonathanAlKass&theme=ayu-mirage" height="192px"/></a>
   </p>
