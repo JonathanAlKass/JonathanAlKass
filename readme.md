@@ -23,15 +23,7 @@
 
 ---
 
-<style>
-  #seperator{
-    width: 2px;
-    height: 50px;
-    background-color: gray;
-    display: inline-block;
-
-  }
-</style>                 
+               
                  
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
@@ -40,7 +32,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   
-<div id="seperator"> </div>                                                                                                                                      
+<div id="seperator" style="width: 2px;
+    height: 50px;
+    background-color: gray;
+    display: inline-block;"> </div>                                                                                                                                      
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="Jetbrains" alt="Jetbrains" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="VisualStudio" width="40" height="40"/>&nbsp;
