@@ -62,7 +62,7 @@
 ### 💻 GitHub Profile Stats :
   <br/>
   <p align="center">
-    <a href="https://github.com/JonathanAlKass"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=JonathanAlKass&show_icons=true&count_private=true&theme=ayu-mirage" height="192px"/></a>
+    <a href="https://github.com/JonathanAlKass"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=JonathanAlKass&show_icons=true&count_private=true&theme=github_dark" height="192px"/></a>
 <br/>
   &nbsp;
 
@@ -70,5 +70,5 @@
 
 ### :fire: Best stats on GitHub :
   <p align="center">
-      <a href="https://github.com/JonathanAlKass"><img alt="My Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=JonathanAlKass&theme=ayu-mirage" height="192px"/></a>
+      <a href="https://github.com/JonathanAlKass"><img alt="My Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=JonathanAlKass&theme=github_dark" height="192px"/></a>
   </p>
