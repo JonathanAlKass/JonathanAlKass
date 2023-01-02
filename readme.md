@@ -2,10 +2,10 @@
   <img src="https://cv3.xyz/images/github/banner4.png" width="80%"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://discord.com/users/588664090684031007">
+  <a href="https://discord.com/users/588664090684031007" target="_blank">
     <img src="https://cv3.xyz/images/github/discordlogo.svg" alt="Discord Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCJyj3PG01S1j3FIsUo1qdbA">
+  <a href="https://www.youtube.com/channel/UCJyj3PG01S1j3FIsUo1qdbA" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <!--<a href="https://www.twitch.tv/">
