@@ -60,6 +60,7 @@
           <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
+          <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
         </td>
       </tr>
