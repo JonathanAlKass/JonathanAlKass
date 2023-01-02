@@ -6,10 +6,10 @@
     <img src="https://cv3.xyz/images/github/discordlogo.svg" alt="Discord Badge"/>
     
   </a>
-  <!--<a href="https://www.youtube.com/">
+  a href="[https://www.youtube.com/](https://www.youtube.com/channel/UCJyj3PG01S1j3FIsUo1qdbA)">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://www.twitch.tv/">
+  <!--<<a href="https://www.twitch.tv/">
     <img src="https://img.shields.io/badge/twitch-blueviolet?logo=twitch&logoColor=white&style=for-the-badge" alt="Twitch Badge"/>
   </a>-->
 </div>
