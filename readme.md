@@ -70,5 +70,5 @@
 
 ### :fire: Best stats on GitHub :
   <p align="center">
-      <a href="https://github.com/JonathanAlKass"><img alt="My Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=JonathanAlKass&theme=github_dark" height="192px"/></a>
+      <a href="https://github.com/JonathanAlKass"><img alt="My Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=JonathanAlKass&theme=github-dark-blue" height="192px"/></a>
   </p>
