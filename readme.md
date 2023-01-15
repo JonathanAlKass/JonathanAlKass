@@ -77,7 +77,7 @@
 ### 💻 GitHub Profile Stats :
   <br/>
   <p align="center">
-    <a href="https://github.com/JonathanAlKass"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app?username=JonathanAlKass&show_icons=true&count_private=true&theme=github_dark" height="192px"/></a>
+    <a href="https://github.com/JonathanAlKass"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=JonathanAlKass&show_icons=true&count_private=true&theme=github_dark" height="192px"/></a>
 <br/>
   &nbsp;
 
