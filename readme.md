@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://fiverr.com/JonathanAlKass" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Fiverr_Logo_09.2020.svg/1280px-Fiverr_Logo_09.2020.svg.png" alt="Fiverr Badge" style="width: 50px;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Fiverr_Logo_09.2020.svg/1280px-Fiverr_Logo_09.2020.svg.png" alt="Fiverr Badge" style="height: 28px;"/>
   </a>
   <!--<a href="https://www.twitch.tv/">
     <img src="https://img.shields.io/badge/twitch-blueviolet?logo=twitch&logoColor=white&style=for-the-badge" alt="Twitch Badge"/>
