@@ -2,7 +2,7 @@
   <img src="https://cv3.xyz/images/github/banner4.png" width="80%"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://discord.com/users/588664090684031007" target="_blank">
+  <!--<a href="https://discord.com/users/588664090684031007" target="_blank">
     <img src="https://cv3.xyz/images/github/discordlogo.svg" alt="Discord Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCJyj3PG01S1j3FIsUo1qdbA" target="_blank">
@@ -10,7 +10,7 @@
   </a>
   <a href="https://fiverr.com/JonathanAlKass" target="_blank">
     <img src="https://cv3.xyz/images/github/fiverr2.png" alt="Fiverr Badge" style="height: 28px;" />
-  </a>
+  </a>-->
   <!--<a href="https://www.twitch.tv/">
     <img src="https://img.shields.io/badge/twitch-blueviolet?logo=twitch&logoColor=white&style=for-the-badge" alt="Twitch Badge"/>
   </a>-->
