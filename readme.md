@@ -19,8 +19,8 @@
 ---
 
 ### :woman_technologist: About Me :
-<p align="center"><b>💻 Developer since 2014<b/><p/>
-<p align="center"><b>📅 17 years old<b/><p/>
+<p align="center"><b>💻 Developer since 2013<b/><p/>
+<p align="center"><b>📅 18 years old<b/><p/>
 <p align="center"><b>🤖 Discord bot developer<b/><p/>
 <p align="center"><b>🌐 Webdeveloper<b/><p/>
 <p align="center"><b>💡 Lighting designer | GrandMA3<b/><p/>
