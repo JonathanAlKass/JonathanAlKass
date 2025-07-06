@@ -22,7 +22,7 @@
 
 ### :woman_technologist: About Me :
 <p align="center"><b>💻 Developer since 2013<b/><p/>
-<p align="center"><b>📅 <span id="age"></span> years old<b/><p/>
+<p align="center"><b>📅 20 years old<b/><p/>
 <p align="center"><b>🤖 Discord bot developer<b/><p/>
 <p align="center"><b>🌐 Webdeveloper<b/><p/>
 <p align="center"><b>💡 Lighting designer | GrandMA3<b/><p/>
@@ -87,15 +87,3 @@
       <a href="https://github.com/JonathanAlKass"><img alt="My Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=JonathanAlKass&theme=github-dark-blue" height="192px"/></a>
   </p>
 
-
-
-<script>
-  const birthDate = new Date("2005-06-01"); // replace with your date
-  const today = new Date();
-  let age = today.getFullYear() - birthDate.getFullYear();
-  const m = today.getMonth() - birthDate.getMonth();
-  if (m < 0 || (m === 0 && today.getDate() < birthDate.getDate())) {
-    age--;
-  }
-  document.getElementById("age").textContent = age + " years old";
-</script>
