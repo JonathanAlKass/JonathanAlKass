@@ -62,7 +62,7 @@
           <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask" alt="flask" width="40" height="40"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="debian" alt="debian" width="40" height="40"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-          <img src="https://www.malighting.com/files/malighting/_processed_/4/9/csm_grandMA3-Logo_Wortmarke_schwarz_eadd2c3299.jpg" title="Malighting" alt="Malighting" height="40" width="auto"/>&nbsp;
+          <img src="https://seesound.es/wp-content/uploads/2023/12/MA_Logo_official_only-for-web-500x300px.png" title="Malighting" alt="Malighting" width="100px"/>&nbsp;
         </td>
       </tr>
   </table>
